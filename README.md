@@ -1,11 +1,13 @@
-# Hey there, I’m **Hasset ("Jani") Wendesen** 👋
+# Hey there, I’m **Hasset "Jani"** 👋
 
 ---
 
-## 🧑‍💼 About Me  
-I'm a passionate software engineering student who loves coding and is always curious about the tech world. I enjoy diving into new technologies and building scalable, user-centered web applications. My focus is on creating impactful tech solutions that make a difference.
+##  About Me  
+🚀I’m a Software Engineering student at Addis Ababa University, passionate about crafting innovative tech solutions. 
 
-I work comfortably with modern frontend frameworks like React and backend environments such as Node.js. I also have experience with Java and Kotlin. Currently, I'm exploring full-stack development and actively building projects to grow my skills every day.
+🔍 I love exploring new technologies and building scalable, user-centered web applications that make an impact.development and actively building projects to grow my skills every day.
+
+💻 Skilled in modern frontend frameworks like React, and proficient in backend environments such as Node.js.
 
 ---
 
