@@ -4,11 +4,11 @@
 
 ##  About Me  
 🚀I’m a Software Engineering student at Addis Ababa University, passionate about crafting innovative tech solutions. 
-
-🔍 I love exploring new technologies and building scalable, user-centered web applications that make an impact.development and actively building projects to grow my skills every day.
-
-💻 Skilled in modern frontend frameworks like React, and proficient in backend environments such as Node.js.
-
+---
+🔍 I love exploring new technologies and building projects to grow my skills every day.
+---
+💻 Skilled in modern frontend frameworks like React, and backend environments such as Node.js.
+---
 ---
 
 ## 💻 Tech Stack  
